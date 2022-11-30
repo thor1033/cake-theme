@@ -1,6 +1,3 @@
-[submodule "Neovim"]
-	path = Neovim
-	url = https://github.com/thor1033/cake.vim
 [submodule "themes/neovim"]
 	path = themes/neovim
 	url = https://github.com/thor1033/cake.vim

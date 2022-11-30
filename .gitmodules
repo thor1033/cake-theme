@@ -1,1 +1,3 @@
-
+[submodule "Nvim"]
+	path = themes/Neovim
+	url = https://github.com/thor1033/cake.vim

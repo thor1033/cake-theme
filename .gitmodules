@@ -4,3 +4,9 @@
 [submodule "themes/neovim"]
 	path = themes/neovim
 	url = https://github.com/thor1033/cake.vim
+[submodule "themes/zathura"]
+	path = themes/zathura
+	url = https://github.com/thor1033/cake.zathura
+[submodule "themes/neomutt"]
+	path = themes/neomutt
+	url = https://github.com/thor1033/cake.mutt
